@@ -2,7 +2,7 @@
   "friendly_name": "Spiderfoot",
   "image_src": "spiderfoot.svg",
   "description": "SpiderFoot is an open source intelligence (OSINT) automation tool.",
-  "name": "kasmweb/spiderfoot:1.15.0",
+  "name": "niepw/kasm-spiderfoot:1.15.0-jammy",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
