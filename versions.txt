@@ -1,1 +1,1 @@
-dependabot_npm_and_yarn_site_npm_and_yarn-8fb7a28dbc
+1.0
